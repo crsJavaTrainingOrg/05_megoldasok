@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bank
+comment1.params=
+comment1.target=Bank()
+comment2.params=bankszamla
+comment2.target=boolean\ addBankszamla(Bankszamla)
+comment3.params=bankszamlaszam
+comment3.target=boolean\ bankszamlaLezarasa(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ bankszamlakPluszban()
+comment5.params=
+comment5.target=Bankszamla\ legjobbBankszamla()
+numComments=6

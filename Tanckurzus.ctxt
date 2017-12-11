@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tanckurzus
+comment1.params=parokMaxSzama
+comment1.target=Tanckurzus(int)
+comment2.params=szemely1\ szemely2
+comment2.target=boolean\ addPar(Szemely,\ Szemely)
+comment3.params=nem
+comment3.target=double\ getAtlageletkor(boolean)
+comment4.params=nev
+comment4.target=Szemely\ getPartner(java.lang.String)
+numComments=5

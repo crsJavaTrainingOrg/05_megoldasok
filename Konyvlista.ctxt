@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Konyvlista
+comment1.params=
+comment1.target=Konyvlista()
+comment2.params=
+comment2.target=int\ nemetNyelvuZsebkonyvek()
+comment3.params=konyv
+comment3.target=boolean\ addKonyv(Konyv)
+comment4.params=
+comment4.target=java.util.ArrayList\ dragaZsebkonyvek()
+numComments=5

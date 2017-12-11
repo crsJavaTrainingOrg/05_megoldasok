@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Szemely
+comment1.params=nev\ kor\ noE
+comment1.target=Szemely(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNev()
+comment3.params=
+comment3.target=int\ getKor()
+comment4.params=
+comment4.target=boolean\ noE()
+comment5.params=
+comment5.target=boolean\ ferfiE()
+numComments=6

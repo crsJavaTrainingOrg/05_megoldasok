@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Butorraktar
+comment1.params=darabszam\ minimmumAr\ maximumAr
+comment1.target=Butorraktar(int,\ double,\ double)
+comment2.params=olcso
+comment2.target=java.util.ArrayList\ olcsoButorok(double)
+comment3.params=
+comment3.target=double\ getAtlagAr()
+numComments=4

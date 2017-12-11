@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Butordarab
+comment1.params=fajtaID\ ar\ szazalek
+comment1.target=Butordarab(int,\ double,\ int)
+comment2.params=
+comment2.target=int\ getFajtaId()
+comment3.params=
+comment3.target=double\ getAr()
+comment4.params=ar
+comment4.target=void\ setAr(double)
+comment5.params=
+comment5.target=double\ getarSzazalekUtan()
+numComments=6
